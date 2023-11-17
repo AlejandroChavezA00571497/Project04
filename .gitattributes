@@ -1,1 +1,2 @@
 billboardHot100_1999-2019.csv filter=lfs diff=lfs merge=lfs -text
+AttributesBillboard.csv filter=lfs diff=lfs merge=lfs -text
